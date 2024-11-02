@@ -11,4 +11,4 @@
 > Alpha aka Finished but might change a few things around now & then
 
 **Entity Building System.**
-> Under Development
+> Under Development. Not recommended
