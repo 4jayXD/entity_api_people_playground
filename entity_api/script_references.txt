@@ -1,0 +1,5 @@
+"entity_api/scripts/EntityAPI.cs",
+"entity_api/scripts/texturing/TextureModule.cs",
+"entity_api/scripts/texturing/EntityTextureCache.cs",
+"entity_api/scripts/texturing/LimbTextureCache.cs",
+"entity_api/scripts/texturing/TextureCutoutCache.cs"
