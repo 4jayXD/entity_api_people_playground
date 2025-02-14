@@ -1,5 +1,1 @@
-# Entity API 
-People Playground API for texturing & Building Entities
-
-Made By Ajay.
-
+# NOTE: THIS IS UNFINISHED. SOMETHINGS MIGHT NOT WORK.
